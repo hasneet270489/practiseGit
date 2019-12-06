@@ -1,0 +1,10 @@
+Regular expressions
+
+^ $ - Start and End of statement
+passing values from scenarios
+
+[a-zA-Z]{1,} - alpha
+[a-zA-Z0-9]{1,} - alphanumeric
+\\d+ -- any number of digits
+(.*) - List 
+[^\"]* - anything
